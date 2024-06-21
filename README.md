@@ -133,10 +133,10 @@ For more detailed descriptions and usage instructions of each script, refer to t
 
 For further details on each script and its functionality, refer to the individual README files linked below:
 
-- [Vagrantfile README](./Vagrantfile)
-- [control.rb README](./control.rb)
-- [bootstrap.sh README](./bootstrap.sh)
-- [post_setup.sh README](./post_setup.sh)
+- [Vagrantfile README](./Vagrantfile_README.md)
+- [control.rb README](./control.rb_README.md)
+- [bootstrap.sh README](./bootstrap.sh_README.md)
+- [post_setup.sh README](./post_setup.sh_README.md)
 
 By following the instructions and utilizing the provided scripts, you can efficiently set up a fully automated HA Kubernetes environment for your development and testing needs.
 
