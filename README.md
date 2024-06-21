@@ -3,6 +3,7 @@
 <div align="center">
   <img src="architecture-diagram.png" alt="Kubernetes Cluster Architecture">
 </div>
+
 ## Introduction
 
 This repository provides a fully automated setup for a highly available Kubernetes (K8s) environment using Vagrant and Kubespray. It provisions a Kubernetes cluster with multiple master nodes, a load balancer, and worker nodes using VirtualBox as the provider and Ubuntu 22.04.3 "Jammy Jellyfish" as the base OS. This setup is intended for development and testing purposes.
